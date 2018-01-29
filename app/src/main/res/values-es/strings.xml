@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La primera aplicación de Android de Martin</string>
+    <string name="edit_message">Ingrese un mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="send">Enviar</string>
+</resources>
